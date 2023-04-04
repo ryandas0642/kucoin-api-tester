@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "kucoin-node-sdk": "^1.0.4"
+  }
+}
